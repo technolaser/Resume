@@ -1,5 +1,5 @@
 ---
-title: Ruvane Bernstein - Senior Technical Writer
+title: Ruvane Bernstein
 ---
 
 **Senior Technical Writer**  
