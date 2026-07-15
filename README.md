@@ -1,27 +1,16 @@
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  document.querySelectorAll('a').forEach(link => {
-    if (link.hostname !== window.location.hostname) {
-      link.target = '_blank';
-      link.rel = 'noopener noreferrer';
-    }
-  });
-});
-</script>
-
 **Senior Technical Writer**  
 **Hardware/Software Documentation • Embedded Systems • API & DevEx • AI/LLM Content**
 
 [Email](ruvane@techno-laser.com) | [Phone](+972-542-362074)  
 
-**LinkedIn:** [Ruvane Bernstein](https://www.linkedin.com/in/ruvanebernstein)
+**LinkedIn:** [Ruvane Bernstein](https://www.linkedin.com/in/ruvanebernstein) {:target="_blank" rel="noopener noreferrer"}
 
 # Selected Writing Samples
-- [Google Workspace Manage membership automatically with dynamic groups](https://knowledge.workspace.google.com/admin/groups/manage-membership-automatically-with-dynamic-groups)
-- [Join meetings using SIP on Google Meet hardware](https://knowledge.workspace.google.com/admin/meet-hardware/join-meetings-using-sip-on-google-meet-hardware)
-- [Google Workspace Meet interoperability FAQ](https://knowledge.workspace.google.com/admin/meet-hardware/meet-interoperability-faq)
-- [Bond Financials REST API Reference](https://docs.bond.tech/reference/authentication) – API-based developer documentation
-- [Bond Financials API Reference Guide](https://docs.bond.tech/docs/welcome-introduction) – Software developer documentation  
+- [Google Workspace Manage membership automatically with dynamic groups](https://knowledge.workspace.google.com/admin/groups/manage-membership-automatically-with-dynamic-groups) {:target="_blank" rel="noopener noreferrer"}
+- [Join meetings using SIP on Google Meet hardware](https://knowledge.workspace.google.com/admin/meet-hardware/join-meetings-using-sip-on-google-meet-hardware) {:target="_blank" rel="noopener noreferrer"}
+- [Google Workspace Meet interoperability FAQ](https://knowledge.workspace.google.com/admin/meet-hardware/meet-interoperability-faq) {:target="_blank" rel="noopener noreferrer"}
+- [Bond Financials REST API Reference](https://docs.bond.tech/reference/authentication) {:target="_blank" rel="noopener noreferrer"} – API-based developer documentation
+- [Bond Financials API Reference Guide](https://docs.bond.tech/docs/welcome-introduction){:target="_blank" rel="noopener noreferrer"} – Software developer documentation  
 
 Full portfolio available on request
 
