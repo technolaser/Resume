@@ -1,3 +1,14 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('a').forEach(link => {
+    if (link.hostname !== window.location.hostname) {
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+    }
+  });
+});
+</script>
+
 **Senior Technical Writer**  
 **Hardware/Software Documentation • Embedded Systems • API & DevEx • AI/LLM Content**
 
