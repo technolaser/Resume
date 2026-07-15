@@ -3,16 +3,20 @@
 
 [Email](ruvane@techno-laser.com) | [Phone](+972-542-362074)  
 
+| Email | Phone |
+| --- | --- |
+| [ruvane@techno-laser.com](javascript:void(location.href='mailto:'+'ruvane'+'@'+'techno-laser.com')) | [Click to Call](javascript:void(location.href='tel:'+'+972'+'-'+'542'+'-'+'362074')) |
+
 | [Email](javascript:void(location.href='mailto:'+'ruvane'+'@'+'techno-laser.com')) | [Phone](tel:+972542362074) |
 | --- | --- |
 
 **LinkedIn:** [Ruvane Bernstein](https://www.linkedin.com/in/ruvanebernstein){:target="_blank" rel="noopener noreferrer"}
 
 # Selected Writing Samples
-- [Google Workspace Manage membership automatically with dynamic groups](https://knowledge.workspace.google.com/admin/groups/manage-membership-automatically-with-dynamic-groups) {:target="_blank" rel="noopener noreferrer"}
-- [Join meetings using SIP on Google Meet hardware](https://knowledge.workspace.google.com/admin/meet-hardware/join-meetings-using-sip-on-google-meet-hardware) {:target="_blank" rel="noopener noreferrer"}
-- [Google Workspace Meet interoperability FAQ](https://knowledge.workspace.google.com/admin/meet-hardware/meet-interoperability-faq) {:target="_blank" rel="noopener noreferrer"}
-- [Bond Financials REST API Reference](https://docs.bond.tech/reference/authentication) {:target="_blank" rel="noopener noreferrer"} – API-based developer documentation
+- [Google Workspace Manage membership automatically with dynamic groups](https://knowledge.workspace.google.com/admin/groups/manage-membership-automatically-with-dynamic-groups){:target="_blank" rel="noopener noreferrer"}
+- [Join meetings using SIP on Google Meet hardware](https://knowledge.workspace.google.com/admin/meet-hardware/join-meetings-using-sip-on-google-meet-hardware){:target="_blank" rel="noopener noreferrer"}
+- [Google Workspace Meet interoperability FAQ](https://knowledge.workspace.google.com/admin/meet-hardware/meet-interoperability-faq){:target="_blank" rel="noopener noreferrer"}
+- [Bond Financials REST API Reference](https://docs.bond.tech/reference/authentication){:target="_blank" rel="noopener noreferrer"} – API-based developer documentation
 - [Bond Financials API Reference Guide](https://docs.bond.tech/docs/welcome-introduction){:target="_blank" rel="noopener noreferrer"} – Software developer documentation  
 
 Full portfolio available on request
