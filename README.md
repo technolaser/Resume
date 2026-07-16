@@ -6,7 +6,7 @@
 | [Email](javascript:void(location.href='mailto:'+'ruvane'+'@'+'techno-laser.com')) | [Phone](tel:+972542362074) | [LinkedIn](https://www.linkedin.com/in/ruvanebernstein){:target="_blank" rel="noopener noreferrer"}
 
 ## Selected Writing Samples
-- [Google Workspace Manage membership automatically with dynamic groups](https://knowledge.workspace.google.com/admin/groups/manage-membership-automatically-with-dynamic-groups){:target="_blank" rel="noopener noreferrer"} – Google Workspace Admin Help Center - Groups
+- [Google Workspace Manage membership automatically with dynamic groups](https://knowledge.workspace.google.com/admin/groups/manage-membership-automatically-with-dynamic-groups){:target="_blank" rel="noopener noreferrer"} - Google Workspace Admin Help Center - Groups
 - [Join meetings using SIP on Google Meet hardware](https://knowledge.workspace.google.com/admin/meet-hardware/join-meetings-using-sip-on-google-meet-hardware){:target="_blank" rel="noopener noreferrer"} – Google Workspace Admin Help Center - Meet Hardware
 - [Google Workspace Meet interoperability FAQ](https://knowledge.workspace.google.com/admin/meet-hardware/meet-interoperability-faq){:target="_blank" rel="noopener noreferrer"} – Google Workspace Admin Help Center - Meet Hardware
 - [Bond Financials REST API Reference](https://docs.bond.tech/reference/authentication){:target="_blank" rel="noopener noreferrer"} – API developer documentation
