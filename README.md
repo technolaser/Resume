@@ -33,8 +33,8 @@ Full portfolio available on request
 
 ### Remote Technical Writer
 **GOOGLE** | 2019 – Present | California, USA
-- Leveraged **Gemini AI** daily to accelerate creation, refinement, and synthesis of technical documentation for Google Workspace Admin Help Center, including AI-powered features
-- Maintained enterprise documentation using **Docs-as-Code** with strong focus on clarity and usability
+- Leveraged **Gemini AI** daily to accelerate creation, refinement, and synthesis of technical documentation for Google Workspace Admin Help Center
+- Managed complex content architectures at scale using Docs-as-Code and utilizing AI-driven documentation workflows to scale content production with a strong focus on clarity and usability
 - Collaborated with engineering teams to document complex topics resulting in improved enterprise administrator experience
 
 ### Remote Technical Writer / Editor
