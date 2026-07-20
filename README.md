@@ -12,6 +12,8 @@
 - [Bond Financials REST API Reference](https://docs.bond.tech/reference/authentication){:target="_blank" rel="noopener noreferrer"} – API developer documentation
 - [Bond Financials API Reference Guide](https://docs.bond.tech/docs/welcome-introduction){:target="_blank" rel="noopener noreferrer"} – Software developer documentation
 - [Intel TPM Tools User Guide](https://www.techno-laser.com/samples_extracts/Intel_TPM_Tools_User_Guide_xtr.pdf){:target="_blank" rel="noopener noreferrer"} – Intel TPM user documentation
+- [Kramer Electronics TP-577HDCP DVI to DGKat Transmitter](https://www.techno-laser.com/samples_extracts/KramerElectronics_TP-577HDCP_xtr.pdf){:target="_blank" rel="noopener noreferrer"} – Kramer Audio Visual user documentation
+- [BigBand Networks Media Services Platform MSP2000 Hardware Installation and Replacement Guide](https://www.techno-laser.com/samples_extracts/BigBandNetworks_MSP2000_Install_Guide_xtr.pdf){:target="_blank" rel="noopener noreferrer"} – BigBand TV over IP engineering documentation  
 
 Full portfolio available on request
 
