@@ -5,7 +5,30 @@
 
 | [Email](javascript:void(location.href='mailto:'+'ruvane'+'@'+'techno-laser.com')) | [LinkedIn](https://www.linkedin.com/in/ruvanebernstein){:target="_blank" rel="noopener noreferrer"}
 
-## Selected Writing Samples
+## Selected documentation
+
+**API Documentation**
+- REST API reference
+- Authentication
+- Examples
+- Error handling
+
+**Hardware Documentation**
+- Installation guide
+- User manual
+- Troubleshooting guide
+
+**Embedded Systems**
+- Configuration guide
+- Firmware documentation
+- Developer guide
+
+**AI/LLM**
+- AI-assisted documentation
+- Technical knowledge-base content
+=- LLM evaluation/training work
+
+### Selected Writing Samples
 - [Google Workspace Manage membership automatically with dynamic groups](https://knowledge.workspace.google.com/admin/groups/manage-membership-automatically-with-dynamic-groups){:target="_blank" rel="noopener noreferrer"} - Google Workspace Admin Help Center - Groups
 - [Join meetings using SIP on Google Meet hardware](https://knowledge.workspace.google.com/admin/meet-hardware/join-meetings-using-sip-on-google-meet-hardware){:target="_blank" rel="noopener noreferrer"} – Google Workspace Admin Help Center - Meet Hardware
 - [Google Workspace Meet interoperability FAQ](https://knowledge.workspace.google.com/admin/meet-hardware/meet-interoperability-faq){:target="_blank" rel="noopener noreferrer"} – Google Workspace Admin Help Center - Meet Hardware
