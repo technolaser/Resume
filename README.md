@@ -3,6 +3,11 @@
 ## **Senior Technical Writer**
 **Hardware/Software/Electronics Documentation • Embedded Systems • API & DevEx • AI/LLM Content**
 
+## Professional Summary
+**Senior Technical Writer** and **Electronics Engineer**  with 20+ years delivering hardware, embedded systems, IoT, and API documentation for enterprise and developer audiences. Proven remote collaborator with expertise in Docs-as-Code, Gemini AI, Swagger/OpenAPI, and translating complex schematics/troubleshooting into user-friendly content. Seeking 100% remote, worldwide contracts in hardware/software/IoT/electronics technical writing.
+
+---
+
 | [Email](javascript:void(location.href='mailto:'+'ruvane'+'@'+'techno-laser.com')) | [LinkedIn](https://www.linkedin.com/in/ruvanebernstein){:target="_blank" rel="noopener noreferrer"}
 
 ## Selected documentation
@@ -39,11 +44,6 @@
 - [BigBand Networks Media Services Platform MSP2000 Hardware Installation and Replacement Guide](https://www.techno-laser.com/samples_extracts/BigBandNetworks_MSP2000_Install_Guide_xtr.pdf){:target="_blank" rel="noopener noreferrer"} – BigBand TV over IP engineering documentation  
 
 Full portfolio available on request
-
----
-
-## Professional Summary
-**Senior Technical Writer** and **Electronics Engineer**  with 20+ years delivering hardware, embedded systems, IoT, and API documentation for enterprise and developer audiences. Proven remote collaborator with expertise in Docs-as-Code, Gemini AI, Swagger/OpenAPI, and translating complex schematics/troubleshooting into user-friendly content. Seeking 100% remote, worldwide contracts in hardware/software/IoT/electronics technical writing.
 
 ---
 
