@@ -51,7 +51,7 @@ Full portfolio available on request
 - **Technical writing & DevEx:** API documentation, firmware & hardware integration guides, user-centric docs for admins/developers, user manuals, technical specifications, and knowledge bases
 - **AI & modern tools:** Gemini AI for content generation 
 - **Electronics & Hardware:** Embedded systems, AV hardware, schematics, troubleshooting guides, installation & service manuals, compliance documentation, and MicroPython/ESP32 integration
-- **Tools:** Docs-as-Code (Markdown/Git), Swagger/OpenAPI, Jira, Slack, Oxygen XML Editor, FrameMaker, GitHub, Salesforce, and SharePoint
+- **Tools:** Docs-as-Code (Markdown/Git), Swagger/OpenAPI, Jira, Slack, Oxygen XML Editor, FrameMaker, GitHub, Salesforce/Lightning, and SharePoint
  
 ---
 
@@ -69,7 +69,7 @@ Full portfolio available on request
 
 ### Remote Technical Writer / Editor
 **MODEL N** | 2016 – 2018 | California, USA
-- Developed setup, configuration, administration, and user documentation for Salesforce SaaS platforms
+- Developed setup, configuration, administration, and user documentation for Salesforce/Lightning SaaS platforms
 - Partnered with developers to document UI, functionality, error handling, and integrations
 
 ### Technical Writer / Editor
