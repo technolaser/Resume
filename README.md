@@ -31,7 +31,7 @@
 **AI/LLM**
 - AI-assisted documentation
 - Technical knowledge-base content
-=- LLM evaluation/training work
+- LLM evaluation/training work
 
 ### Selected Writing Samples
 - [Google Workspace Manage membership automatically with dynamic groups](https://knowledge.workspace.google.com/admin/groups/manage-membership-automatically-with-dynamic-groups){:target="_blank" rel="noopener noreferrer"} - Google Workspace Admin Help Center - Groups
