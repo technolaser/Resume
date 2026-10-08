@@ -42,7 +42,7 @@
 - [Intel TPM Tools User Guide](https://www.techno-laser.com/samples_extracts/Intel_TPM_Tools_User_Guide_xtr.pdf){:target="_blank" rel="noopener noreferrer"} – Intel TPM user documentation
 - [Kramer Electronics TP-577HDCP DVI to DGKat Transmitter](https://www.techno-laser.com/samples_extracts/KramerElectronics_TP-577HDCP_xtr.pdf){:target="_blank" rel="noopener noreferrer"} – Kramer Audio Visual user documentation
 - [BigBand Networks Media Services Platform MSP2000 Hardware Installation and Replacement Guide](https://www.techno-laser.com/samples_extracts/BigBandNetworks_MSP2000_Install_Guide_xtr.pdf){:target="_blank" rel="noopener noreferrer"} – BigBand TV over IP engineering documentation
-- [Newsight Imaging SpecraLIT IFU](https://www.techno-laser.com/samples_full/Newsight_Imaging_SpectraLIT_Covid_Tester_IFU_V1.pdf){:target="_blank" rel="noopener noreferrer"} – Covid virus detector
+- [Newsight Imaging SpecraLIT IFU](https://www.techno-laser.com/samples_full/Newsight_Imaging_SpectraLIT_Covid_Tester_IFU_V1.pdf){:target="_blank" rel="noopener noreferrer"} – Newsight Imaging SpecraLIT IFU Covid virus detector
 - [enVerid HLR 200M Sorbent Ventilation Installation and Application Guide.pdf](https://www.techno-laser.com/samples_full/enVerid_HLR_200M_Sorbent_Ventilation_Installation_and_Application_Guide_V1.pdf){:target="_blank" rel="noopener noreferrer"} – enVerid HLR 200M Sorbent Ventilation Installation and Application Guide
 - [Checkpoint & Intel Encryption WhitePaper](https://www.techno-laser.com/samples_full/Checkpoint_Intel_WhitePaper_Encryption.pdf){:target="_blank" rel="noopener noreferrer"} – Checkpoint & Intel Encryption WhitePaper
 
