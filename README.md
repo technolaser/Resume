@@ -13,20 +13,20 @@
 ## Selected documentation
 
 **API Documentation**
-- REST API reference
-- Authentication
-- Examples
-- Error handling
+- REST API references
+- API Authentication
+- API Examples
+- API Error handling
 
 **Hardware Documentation**
-- Installation guide
-- User manual
-- Troubleshooting guide
+- Installation guides
+- User manuals
+- Troubleshooting guides
 
 **Embedded Systems**
-- Configuration guide
+- Configuration guides
 - Firmware documentation
-- Developer guide
+- Developer guides
 
 **AI/LLM**
 - AI-assisted documentation
