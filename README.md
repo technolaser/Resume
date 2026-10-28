@@ -1,7 +1,7 @@
 # Ruvane Bernstein
 
-## **Senior Technical Writer**
-**Hardware/Software/Electronics Documentation • Embedded Systems • API & DevEx • AI/LLM Content**
+## **Senior Technical Writer & Electronics Engineer**
+**Hardware & Software Documentation • Embedded Systems • API, Developer, and End-user Documentation • AI Content Evaluation**
 
 ## Professional Summary
 **Senior Technical Writer** and **Electronics Engineer**  with 20+ years delivering hardware, embedded systems, IoT, and API documentation for enterprise and developer audiences. Proven remote collaborator with expertise in Docs-as-Code, Gemini AI, Swagger/OpenAPI, and translating complex schematics/troubleshooting into user-friendly content. Seeking 100% remote, worldwide contracts in hardware/software/IoT/electronics technical writing.
@@ -30,21 +30,16 @@
 
 **AI/LLM**
 - AI-assisted documentation
-- Technical knowledge-base content
-- LLM evaluation/training work
+- AI documentation evaluation and training-data quality review
+- LLM training work
 
 ### Selected Writing Samples
 - [Google Workspace Manage membership automatically with dynamic groups](https://knowledge.workspace.google.com/admin/groups/manage-membership-automatically-with-dynamic-groups){:target="_blank" rel="noopener noreferrer"} - Google Workspace Admin Help Center - Groups
-- [Join meetings using SIP on Google Meet hardware](https://knowledge.workspace.google.com/admin/meet-hardware/join-meetings-using-sip-on-google-meet-hardware){:target="_blank" rel="noopener noreferrer"} – Google Workspace Admin Help Center - Meet Hardware
-- [Google Workspace Meet interoperability FAQ](https://knowledge.workspace.google.com/admin/meet-hardware/meet-interoperability-faq){:target="_blank" rel="noopener noreferrer"} – Google Workspace Admin Help Center - Meet Hardware
 - [Bond Financials REST API Reference](https://docs.bond.tech/reference/authentication){:target="_blank" rel="noopener noreferrer"} – API developer documentation
 - [Bond Financials API Reference Guide](https://docs.bond.tech/docs/welcome-introduction){:target="_blank" rel="noopener noreferrer"} – Software developer documentation
 - [Intel TPM Tools User Guide](https://www.techno-laser.com/samples_extracts/Intel_TPM_Tools_User_Guide_xtr.pdf){:target="_blank" rel="noopener noreferrer"} – Intel TPM user documentation
 - [Kramer Electronics TP-577HDCP DVI to DGKat Transmitter](https://www.techno-laser.com/samples_extracts/KramerElectronics_TP-577HDCP_xtr.pdf){:target="_blank" rel="noopener noreferrer"} – Kramer Audio Visual user documentation
-- [BigBand Networks Media Services Platform MSP2000 Hardware Installation and Replacement Guide](https://www.techno-laser.com/samples_extracts/BigBandNetworks_MSP2000_Install_Guide_xtr.pdf){:target="_blank" rel="noopener noreferrer"} – BigBand TV over IP engineering documentation
 - [Newsight Imaging SpecraLIT IFU](https://www.techno-laser.com/samples_full/Newsight_Imaging_SpectraLIT_Covid_Tester_IFU_V1.pdf){:target="_blank" rel="noopener noreferrer"} – Newsight Imaging SpecraLIT IFU Covid virus detector
-- [enVerid HLR 200M Sorbent Ventilation Installation and Application Guide.pdf](https://www.techno-laser.com/samples_full/enVerid_HLR_200M_Sorbent_Ventilation_Installation_and_Application_Guide_V1.pdf){:target="_blank" rel="noopener noreferrer"} – enVerid HLR 200M Sorbent Ventilation Installation and Application Guide
-- [Checkpoint & Intel Encryption WhitePaper](https://www.techno-laser.com/samples_full/Checkpoint_Intel_WhitePaper_Encryption.pdf){:target="_blank" rel="noopener noreferrer"} – Checkpoint & Intel Encryption WhitePaper
 
 Full portfolio available on request
 
