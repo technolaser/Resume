@@ -45,7 +45,8 @@ Full portfolio available on request
 
 ## Core Skills & Technologies
 - **Technical writing & DevEx:** API documentation, firmware & hardware integration guides, user-centric docs for admins/developers, user manuals, technical specifications, and knowledge bases
-- **AI & modern tools:** Gemini AI for content generation 
+- **AI & modern tools:** Gemini AI for content generation
+- **Certied Master SOC 2 Implementer**
 - **Electronics & Hardware:** Embedded systems, AV hardware, schematics, troubleshooting guides, installation & service manuals, compliance documentation, and MicroPython/ESP32 integration
 - **Tools:** Docs-as-Code (Markdown/Git), Swagger/OpenAPI, Jira, Slack, Oxygen XML Editor, FrameMaker, GitHub, Salesforce/Lightning, and SharePoint
  
