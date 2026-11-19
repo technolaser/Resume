@@ -121,4 +121,4 @@ References available on request.
 - **BSc Electrical Engineering** — University of the Witwatersrand, Johannesburg, South Africa
 - **Technical Writing** — Creating REST API Documentation (I’d Rather Be Writing); DITA and Content Reuse (Scriptorium/Learning DITA); API Documentation, DITA & Structured Writing, UX/UI Development (Cherryleaf); Advanced Technical Content Creation & Technical Writing (UK Institute of Technical Writing)
 - **AI** — AI for Content Creation, AI for Writing & Communicating, AI Fundamentals
-- **Other** — Scytale Cybersecurity SOC 2 Master Implementer Course; Salesforce Administration – Basic & Intermediate (Trailhead, 2019); Microsoft Certified Systems Engineer (Azlan Training)
+- **Other** — Scytale Cybersecurity SOC 2 Master Implementer Course; Salesforce Administration – Basic & Intermediate (Trailhead); Microsoft Certified Systems Engineer (Azlan Training)
