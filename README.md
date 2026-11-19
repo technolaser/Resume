@@ -4,7 +4,7 @@ title: Ruvane Bernstein
 
 # Ruvane Bernstein
 
-## **Senior Technical Writer** | **Hardware** | **Software** | **API & Dev Docs** | **AI/LLM** | **Cybersecurity & SOC 2 Documentation**
+## **Senior Technical Writer** — **Hardware** | **Software** | **API & Dev Docs** | **AI/LLM** | **Cybersecurity & SOC 2 Documentation**
 
 ## Professional Summary
 
